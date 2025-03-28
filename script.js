@@ -48,7 +48,7 @@ function btn1Decrement() {
 
 function btn2Decrement() {
     if(count2 <= 0) {
-        count = 0
+        count2 = 0
         getCount()
     } else {
         count2--
